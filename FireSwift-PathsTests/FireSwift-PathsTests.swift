@@ -1,15 +1,15 @@
 //
-//  SwiftyFirebaseTests.swift
-//  SwiftyFirebaseTests
+//  FireSwift-PathsTests.swift
+//  FireSwift_PathsTests
 //
 //  Created by Morten Bek Ditlevsen on 26/07/2018.
 //  Copyright © 2018 Ka-ching. All rights reserved.
 //
 
 import XCTest
-@testable import FireSwift_Database
+@testable import FireSwift_Paths
 
-class FireSwift_DatabaseTests: XCTestCase {
+class FireSwift_PathsTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

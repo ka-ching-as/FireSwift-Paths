@@ -2,7 +2,7 @@
 
 //
 //  GeneratePaths.swift
-//  SwiftyFirebase
+//  FireSwift-Paths
 //
 //  Created by Morten Bek Ditlevsen on 05/08/2018.
 //  Copyright © 2018 Ka-ching. All rights reserved.
